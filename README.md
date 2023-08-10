@@ -7,14 +7,11 @@ Soy desarrollador de iOS procedente de Madrid.
 
 ## Tecnologías:
 [![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
-</br>
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
-</br>
 [![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)]()
 
 ## Puedes encontrarme en:
 [![Web](https://img.shields.io/badge/Web-carlosmorgado.es-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://carlosmorgado.es)
-</br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos_Morgado-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/carlos-morgado-alarcón/)
 
 <!--

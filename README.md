@@ -1,4 +1,11 @@
-### Hi there 👋
+# ¡Hola! Soy Carlos Morgado 👋
+### iOS Developer 🍏
+
+Soy un desarrollador de iOS procedente de Madrid. 
+
+## Puedes encontrarme en:
+- Web personal: [carlosmorgado.es](www.carlosmorgado.es)
+- [Linkedin](https://www.linkedin.com/in/carlos-morgado-alarcón/)
 
 <!--
 **Carlos-Morgado/carlos-morgado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

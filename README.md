@@ -13,6 +13,8 @@ Soy desarrollador de iOS procedente de Madrid.
 ## Puedes encontrarme en:
 - Web personal [carlosmorgado.es](http://carlosmorgado.es)
 - [Linkedin](https://www.linkedin.com/in/carlos-morgado-alarcón/)
+
+</br>
 [![Web](https://img.shields.io/badge/Web-carlosmorgado.es-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://carlosmorgado.es)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos_Morgado-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/carlos-morgado-alarcón/)
 

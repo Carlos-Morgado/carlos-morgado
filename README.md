@@ -1,6 +1,8 @@
 # ¡Hola! Soy Carlos Morgado 👋
 ### iOS Developer 🍏
 
+![https://github.com/Carlos-Morgado](https://media.licdn.com/dms/image/D4D16AQHLIZUKu2MsQA/profile-displaybackgroundimage-shrink_350_1400/0/1663859625738?e=1697068800&v=beta&t=uiYwJC5Mty1aep8H7Iepmr7FRTBPX1GA2_oRSlC-EFw)
+
 Soy un desarrollador de iOS procedente de Madrid. 
 
 ## Tecnologías:

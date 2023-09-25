@@ -1,9 +1,9 @@
 # ¡Hola! Soy Carlos Morgado 👋
 ### iOS Developer 🍏
 
-![https://github.com/Carlos-Morgado](https://media.licdn.com/dms/image/D4D16AQHLIZUKu2MsQA/profile-displaybackgroundimage-shrink_350_1400/0/1663859625738?e=1697068800&v=beta&t=uiYwJC5Mty1aep8H7Iepmr7FRTBPX1GA2_oRSlC-EFw)
+![Sin-título-1](https://github.com/Carlos-Morgado/carlos-morgado/assets/122310905/cb472d50-9c64-4646-acf8-b143ac4be872)
 
-Soy desarrollador de iOS procedente de Madrid. 
+Soy desarrollador de **iOS** procedente de Madrid. 
 
 ## Tecnologías:
 [![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()

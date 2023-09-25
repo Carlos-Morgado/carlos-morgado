@@ -1,4 +1,4 @@
-![Portada-Github](https://github.com/Carlos-Morgado/carlos-morgado/assets/122310905/26e5c2a0-afea-45f4-bb9f-5d949f6a2459)
+![Portada-Github](https://github.com/Carlos-Morgado/carlos-morgado/assets/122310905/32f0a317-4952-432d-a98b-24ad1840bc11)
 
 # ¡Hola! Soy Carlos Morgado 👋
 ### iOS Developer 🍏

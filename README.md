@@ -1,6 +1,6 @@
-![Portada-Github](https://github.com/Carlos-Morgado/carlos-morgado/assets/122310905/a32c9fc2-d3a6-49b9-b1a1-7705311e4ab0)
+![Portada-Github](https://github.com/Carlos-Morgado/carlos-morgado/assets/122310905/c31c14dd-72a6-40a3-a528-ab8934961fb2)
 
-# ¡Hola mundo! Bienvenido a mi Github.
+# ¡Hola mundo! Bienvenido a mi Github 👋
 Soy desarrollador de **iOS** procedente de Madrid. 
 
 ## Tecnologías:

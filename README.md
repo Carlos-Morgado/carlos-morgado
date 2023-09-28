@@ -1,7 +1,11 @@
 ![Portada-Github](https://github.com/Carlos-Morgado/carlos-morgado/assets/122310905/c2a1fa12-7428-44f8-bec9-1a4a29f1e9a5)
 
 # ¡Hola mundo! Bienvenido a mi Github 👋
-Soy desarrollador de **iOS** procedente de Madrid. 
+Soy desarrollador de **iOS**. Siempre me llamó la atención el diseño y la mecánica visual de las aplicaciones móviles pero, ¿qué hay detrás de todo eso que vemos en la pantalla? ¿Cuál es el código que hace que la aplicación funcione correctamente? Estas preguntas, esa inquietud por saber qué ocurre detrás de una aplicación, hicieron que en 2022, tras varios años a mis espaldas en el mundo de la Comunicación Audiovisual, tomase la decisión de convertirme en **programador**, concretamente en **desarrollador de aplicaciones del ecosistema de Apple**.
+
+Actualmente me dedico al desarrollo de proyectos personales. Esto me está permitiendo descubrir las posibilidades que ofrece el lenguaje Swift y todo lo que conlleva ser programador, tanto a nivel técnico como a nivel psicológico. 
+
+Mi objetivo es seguir ganando experiencia, autonomía y ser mejor desarrollador, formándome día a día para así poder aplicar los mejores recursos en nuevos proyectos donde pueda aportar mi grano de arena.
 
 ## Tecnologías:
 [![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()

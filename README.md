@@ -1,4 +1,4 @@
-![Portada-Github](https://github.com/Carlos-Morgado/carlos-morgado/assets/122310905/c2a1fa12-7428-44f8-bec9-1a4a29f1e9a5)
+![Portada-Github](https://github.com/Carlos-Morgado/carlos-morgado/assets/122310905/6c964cd8-7718-4a12-a8d3-00d0e19818b1)
 
 # ¡Hola mundo! Bienvenido a mi Github 👋
 Soy desarrollador de **iOS**. Siempre me llamó la atención el diseño y la mecánica visual de las aplicaciones móviles pero, ¿qué hay detrás de todo eso que vemos en la pantalla? ¿Cuál es el código que hace que la aplicación funcione correctamente? Estas preguntas, esa inquietud por saber qué ocurre detrás de una aplicación, hicieron que en 2022, tras varios años a mis espaldas en el mundo de la Comunicación Audiovisual, tomase la decisión de convertirme en **programador**, concretamente en **desarrollador de aplicaciones del ecosistema de Apple**.

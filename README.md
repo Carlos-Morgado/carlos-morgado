@@ -14,6 +14,7 @@ Mi objetivo es seguir ganando experiencia, autonomía y ser mejor desarrollador,
 
 ## Puedes encontrarme en:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos_Morgado-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/carlos-morgado-alarcón/)
+[![Twitter](https://img.shields.io/badge/Twitter-@cmorgadoalarcon-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/cmorgadoalarcon)
 
 <!--
 **Carlos-Morgado/carlos-morgado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

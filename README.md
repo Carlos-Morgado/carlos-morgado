@@ -14,7 +14,7 @@ Mi objetivo es seguir ganando experiencia, autonomía y ser mejor desarrollador,
 
 ## Puedes encontrarme en:
 [![X](https://img.shields.io/badge/Web-X-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://twitter.com/cmorgadoalarcon)
-![Twitter_new_X_logo](https://github.com/Carlos-Morgado/carlos-morgado/assets/122310905/bcf6c665-1b46-475d-bb3f-480d6e08b396)
+[![Twitter_new_X_logo](https://github.com/Carlos-Morgado/carlos-morgado/assets/122310905/bcf6c665-1b46-475d-bb3f-480d6e08b396)]
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos_Morgado-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/carlos-morgado-alarcón/)
 

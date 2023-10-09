@@ -13,7 +13,7 @@ Mi objetivo es seguir ganando experiencia, autonomía y ser mejor desarrollador,
 [![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)]()
 
 ## Puedes encontrarme en:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos_Morgado-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/carlos-morgado-alarcón/)
+[![](https://img.shields.io/badge/LinkedIn-Carlos_Morgado-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/carlos-morgado-alarcón/)
 
 <!--
 **Carlos-Morgado/carlos-morgado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

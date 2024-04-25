@@ -5,7 +5,7 @@ Mi camino profesional ha sido diverso: empecé en Comunicación Audiovisual, cau
 
 En 2022, ante esta necesidad de buscar nuevos retos, tomé la decisión de reinventarme y convertirme en desarrollador de iOS. Esto me permite fusionar arte y habilidades técnicas, creando así soluciones digitales innovadoras que unan lo estético con lo funcional. 
 
-Desde entonces mi objetivo ha sido expandir mis horizontes desarrollando proyectos personales que me permitan seguir ganando experiencia y autonomía, formándome día a día para así poder aplicar los mejores recursos en nuevos proyectos donde pueda aportar mi grano de arena.
+Desde entonces mi principal objetivo ha sido desarrollar diversos proyectos que me brinden la oportunidad de potenciar mi experiencia y autonomía, y así poder aplicar con destreza los recursos más efectivos en futuros proyectos, donde pueda contribuir de manera significativa.
 
 ## Tecnologías:
 [![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
